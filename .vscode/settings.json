@@ -58,6 +58,7 @@
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "files.associations": {
     "STACKLL.C": "cpp",
-    "STACKARR.C": "cpp"
+    "STACKARR.C": "cpp",
+    "TREES.C": "cpp"
   }
 }
