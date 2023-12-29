@@ -59,6 +59,7 @@
   "files.associations": {
     "STACKLL.C": "cpp",
     "STACKARR.C": "cpp",
-    "TREES.C": "cpp"
+    "TREES.C": "cpp",
+    "QUEUEARR.C": "cpp"
   }
 }
