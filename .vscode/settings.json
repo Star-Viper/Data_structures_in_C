@@ -61,6 +61,7 @@
     "STACKARR.C": "cpp",
     "TREES.C": "cpp",
     "QUEUEARR.C": "cpp",
-    "LINEARSEARCH.C": "cpp"
+    "LINEARSEARCH.C": "cpp",
+    "FIBOSEARCH.C": "cpp"
   }
 }
