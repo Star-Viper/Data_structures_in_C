@@ -1,1 +1,1 @@
-﻿# Data-structures in C practice
+﻿# Data structures in C practice
