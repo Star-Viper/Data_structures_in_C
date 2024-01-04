@@ -30,6 +30,7 @@ struct Node *insert(struct Node *r, int data)
 	}
 	return r;
 }
+
 void inOrder(struct Node *r)
 {
 	if (r != NULL)
@@ -39,6 +40,7 @@ void inOrder(struct Node *r)
 		inOrder(r->right);
 	}
 }
+
 void preOrder(struct Node *r)
 {
 	if (r != NULL)
