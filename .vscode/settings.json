@@ -62,6 +62,8 @@
     "TREES.C": "cpp",
     "QUEUEARR.C": "cpp",
     "LINEARSEARCH.C": "cpp",
-    "FIBOSEARCH.C": "cpp"
+    "FIBOSEARCH.C": "cpp",
+    "BFS.C": "cpp",
+    "BFSDFS.C": "cpp"
   }
 }
